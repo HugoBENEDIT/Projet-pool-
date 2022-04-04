@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648989313 source:c:\users\hugod\documents\codeblock\tp 5 krushkal\main.cpp
+	"header.h"
+
+1648989798 c:\users\hugod\documents\codeblock\tp 5 krushkal\header.h
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+
