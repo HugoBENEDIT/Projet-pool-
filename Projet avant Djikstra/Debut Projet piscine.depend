@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649082213 source:c:\users\benry\onedrive\documents\ing2\informatique\c++\projet piscine\debut projet piscine\main.cpp
+	"header.h"
+
+1649082213 source:c:\users\benry\onedrive\documents\ing2\informatique\c++\projet piscine\debut projet piscine\sspgrm.cpp
+	"header.h"
+
+1649152867 c:\users\benry\onedrive\documents\ing2\informatique\c++\projet piscine\debut projet piscine\header.h
+	<iostream>
+	<map>
+	<vector>
+	<fstream>
+
