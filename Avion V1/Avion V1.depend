@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649009726 source:c:\users\hugod\documents\codeblock\avion v1\source.cpp
+
+1649158998 source:c:\users\hugod\documents\codeblock\avion v1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<iostream>
+
